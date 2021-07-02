@@ -68,4 +68,4 @@ var emptySpot = function(puzzle){
                ['7','0','3','0','1','8','0','0','0']];
   
   console.log(solve(matrix));
-  console.log(matrix);
+  console.table(matrix);
